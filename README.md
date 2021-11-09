@@ -11,3 +11,6 @@ Data types, math operator, string.
 
 ### Day 3:
 if / else, nested if, multiple if, logical operator.
+
+### Day 4:
+Random module, List, Offset, Nested List
