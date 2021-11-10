@@ -14,3 +14,6 @@ if / else, nested if, multiple if, logical operator.
 
 ### Day 4:
 Random module, List, Offset, Nested List
+
+### Day 5:
+Loop, range()
