@@ -17,3 +17,6 @@ Random module, List, Offset, Nested List
 
 ### Day 5:
 Loop, range()
+
+### Day 6:
+Function, while, indentation (tabs / 4 space)
