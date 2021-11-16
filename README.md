@@ -20,3 +20,9 @@ Loop, range()
 
 ### Day 6:
 Function, while, indentation (tabs / 4 space)
+
+### Day 7:
+Hangman Game Project
+
+### Day 8:
+Function, Positional Argument, Keyword Argument, Caesar Cipher
