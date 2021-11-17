@@ -26,3 +26,6 @@ Hangman Game Project
 
 ### Day 8:
 Function, Positional Argument, Keyword Argument, Caesar Cipher
+
+### Day 9:
+Dictionary, Nesting List and Dictionaries
