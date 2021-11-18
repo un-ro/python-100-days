@@ -29,3 +29,6 @@ Function, Positional Argument, Keyword Argument, Caesar Cipher
 
 ### Day 9:
 Dictionary, Nesting List and Dictionaries
+
+### Day 10
+Function with return, multiple return, docstring, flags, recursion
