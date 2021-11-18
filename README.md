@@ -32,3 +32,6 @@ Dictionary, Nesting List and Dictionaries
 
 ### Day 10
 Function with return, multiple return, docstring, flags, recursion
+
+### Day 11
+Capstone Project: The Blackjack, if you interested learning it. [Check project requirement first](day-11-to-20\d11\capstone-d11.md)
