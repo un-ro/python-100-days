@@ -51,3 +51,7 @@ Capstone Project: The Blackjack, if you interested learning it. [Check project r
 ### Day 12
 
 Local Scope, Global Scope, Constant
+
+### Day 13
+
+Debugging, Debugger
