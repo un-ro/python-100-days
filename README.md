@@ -1,61 +1,21 @@
 # 100 Days of Code: The Complete Python Pro Bootcamp for 2022
 
-## By Dr.Angela Yu
+[Udemy Course by Dr. Angela Yu](https://www.udemy.com/course/100-days-of-code/)
 
-## Day 1 to 10
-
-### Day 1
-
-Print, debug, input, and variable.
-
-### Day 2
-
-Data types, math operator, string.
-
-### Day 3
-
-if / else, nested if, multiple if, logical operator.
-
-### Day 4
-
-Random module, List, Offset, Nested List
-
-### Day 5
-
-Loop, range()
-
-### Day 6
-
-Function, while, indentation (tabs / 4 space)
-
-### Day 7
-
-Hangman Game Project
-
-### Day 8
-
-Function, Positional Argument, Keyword Argument, Caesar Cipher
-
-### Day 9
-
-Dictionary, Nesting List and Dictionaries
-
-### Day 10
-
-Function with return, multiple return, docstring, flags, recursion
-
-### Day 11
-
-Capstone Project: The Blackjack, if you interested learning it. [Check project requirement first](day-11-to-20\d11\capstone-d11.md)
-
-### Day 12
-
-Local Scope, Global Scope, Constant
-
-### Day 13
-
-Debugging, Debugger
-
-### Day 14
-
-Higher Lower Game Project
+| Day | Level | Description |
+| :---: | :---: | --- |
+| 1 | Beginner | Print, debug, input, and variable. |
+| 2 | Beginner | Data types, math operator, string. |
+| 3 | Beginner | if / else, nested if, multiple if, logical operator. |
+| 4 | Beginner | Random module, List, Offset, Nested List |
+| 5 | Beginner | Loop, range function |
+| 6 | Beginner | Function, while, indentation (tabs / 4 space) |
+| 7 | Beginner | Hangman Game Project |
+| 8 | Beginner | Function, Positional Argument, Keyword Argument, Caesar Cipher |
+| 9 | Beginner | Dictionary, Nesting List and Dictionaries |
+| 10 | Beginner | Function with return, multiple return, docstring, flags, recursion |
+| 11 | Beginner | Capstone Project: The Blackjack, [Learn the project](day-11-to-20\d11\capstone-d11.md) |
+| 12 | Beginner | Local Scope, Global Scope, Constant |
+| 13 | Beginner | Debugging, Debugger |
+| 14 | Beginner | Higher Lower Game Project |
+| 15 | Intermediate | The Coffee Machine Project |
