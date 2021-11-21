@@ -55,3 +55,7 @@ Local Scope, Global Scope, Constant
 ### Day 13
 
 Debugging, Debugger
+
+### Day 14
+
+Higher Lower Game Project
